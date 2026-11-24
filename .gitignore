@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+.agents
+.aider-desk
+skills-lock.json
+AGENTS.md
+.scratch
+docs/
